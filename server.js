@@ -22,6 +22,13 @@ app.engine(
 );
 app.set("view engine", "handlebars");
 
+// Authentication
+// Keep this commented until Art figures out how to get this on the same port as sequelize
+// var authenticate = require('./authenticate')
+// var server = authenticate.listen(PORT, function() {
+//   console.log('Authentication activated on port ' + PORT);
+// })
+
 // Routes
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
