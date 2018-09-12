@@ -21,6 +21,17 @@ Personal Care
 Travel expenses
 Entertainment
 
+Name/Brand of App-
+SamyBM- What ever name we choose hopefully shouldn't already be taken as an URL or mobile app. 
+Name ideas so far- (9/12/18- 12:29 AM)-
+Best to worst-
+1-Save Up
+2-GreenBacks
+3-Money Wise
+4-Money Vis
+5-Green(or Money) Add Vis
+6-Spending Safe
+
 
 
 
