@@ -3,9 +3,9 @@ var db = require("../models");
 module.exports = function(app) {
   // Load dashboard page
   app.get("/", function(req, res) {
-    db.Category.findAll().then(function(dbCategories) {
+    db.Expense.findAll().then(function(expenses) {
       res.render("dashboard", {
-        categories: dbCategories
+        expenses: expenses
       });
     })
         
