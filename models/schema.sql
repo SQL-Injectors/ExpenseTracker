@@ -4,6 +4,10 @@ CREATE DATABASE expensetracker_db;
 DROP DATABASE IF EXISTS testdb;
 CREATE DATABASE testdb;
 
+-- Data for Users Table
+INSERT INTO expensetracker_db.Users (user_name, password, monthly_income,  createdAt, updatedAt)
+VALUES ('username', 'password123','3000', '2018/09/09 00:00', '2018/09/09 00:00');
+
 -- Data for Category Table
 INSERT INTO expensetracker_db.Categories (category, createdAt, updatedAt)
 VALUES ('Clothing', '2018/09/09 00:00', '2018/09/09 00:00');
