@@ -18,6 +18,7 @@ Health Care
 Consumer Debt
 Food and Groceries
 Personal Care
+Travel expenses
 Entertainment
 
 
@@ -41,5 +42,5 @@ Entertainment
             Samy-ReadMe.MD
             {6}
 
-        {7}---Coding Growning Pains-Basic Errors & Problems we came accross our developement & resolutions---{7}
+        {7}---Coding Growing Pains-Basic Errors & Problems we came across our developement & resolutions---{7}
         
